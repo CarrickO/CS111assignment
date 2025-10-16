@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%; 
+  background-color: mediumseagreen;
+  My name is Carrick, I'm changing the background color here, and text stuff. 
+  h1 { font-family: Arial, sans-serif;;
+    color: white;
+    text-align: center; 
+  p1 {font-size: 32;}
+  }
+}
